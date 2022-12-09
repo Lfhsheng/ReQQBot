@@ -1,0 +1,7 @@
+bot:
+  http:
+    port: # 正向http端口
+  post:
+    port: # 反向http端口
+admin:
+  - # 填入机器人管理员QQ ID

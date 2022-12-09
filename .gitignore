@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 不提交配置文件
+config.yml
+
+# 不提交数据库文件
+keywords.db
